@@ -1,0 +1,62 @@
+{
+  "name": "personalportfolio",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [
+    "babel",
+    "transpiler",
+    "imagemin",
+    "Fontawesome",
+    "es2015",
+    "clean-css",
+    "scss",
+    "es2016",
+    "autoprefixer",
+    "htmlmin",
+    "uglify",
+    "Bootstrap",
+    "Del",
+    "browser sync",
+    "particles.js",
+    "Swiper.js",
+    "Typed.js",
+    "responsive",
+    "owl carousel"
+  ],
+  "peerDependencies": {
+    "@babel/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@fortawesome/fontawesome-free": "^5.9.0",
+    "browser-sync": "^2.26.7",
+    "del": "^4.1.1",
+    "gmaps": "^0.4.24",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-cli": "^2.2.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-pngquant": "^8.0.0",
+    "owl.carousel": "^2.3.4",
+    "particles.js": "^2.0.0",
+    "rfs": "^8.0.4",
+    "swiper": "^4.5.0",
+    "typed.js": "^2.0.10"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}

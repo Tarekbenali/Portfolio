@@ -1,0 +1,49 @@
+// Navbar variables
+$primary-nav-color:rgba(211,37,53,0.5)!important;
+$secondary-nav-color:#1f1f1f!important;
+$hover-nav-color:rgb(0,54,104)!important;
+
+// Icon variables
+$fb-color:#073282!important;
+$git-color:#c9510c!important;
+$linked-color:#007bb5!important;
+$insta-color:#c32aa3!important;
+$be-color:#1769ff!important;
+
+// button variables
+$color-white:#fcfcfc!important;
+$btn-colors: (
+	"green": "#2ecc71",
+	"blue": "#3498db",
+	"purple": "#9b59b6",
+	"navy": "#34495e",
+    "orange": "#e67e22",
+	"red": "#e74c3c"
+);
+
+// Ribbon varibles
+$white: #fff;
+$font-size: 25px;
+// $background-color: rgb(128, 0, 0);
+$background-color:rgba(211,37,53,0.9);
+$shadow: drop-shadow(5px 5px 5px rgba(212, 54, 54, 0.7));
+$shadow1: drop-shadow(0 5px 2px rgba(0, 0, 0, .3));
+$shadow2:0px 0px 8px 8px rgba(0,0,0,0.27);
+// $shadow3:40px -34px 2px -23px rgba(173,14,20,0.28);
+$shadow3: 10px 10px 5px 0px rgba(173,14,20,0.28);
+$display: block;
+$shadoworigin: drop-shadow(0 1px 2px rgba(0, 0, 0, .5));
+$paddingVertical: 10px;
+$paddingHorizontal: 0;
+$width: 15rem;
+$max-width: 60%;
+ 
+$arrow-curvature: 30px;
+$arrow-radius: 4px;
+// $margin: 20px auto;
+$arrow-radius: 0;
+$arrow-offset: $arrow-curvature * -1;
+$arrow-wing-size: $font-size / 2 + $paddingVertical;
+$arrow-radius: $arrow-radius;
+$arrow-offset: $arrow-offset;
+$arrow-curvature: $arrow-curvature;
