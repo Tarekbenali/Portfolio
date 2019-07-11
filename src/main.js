@@ -20,7 +20,7 @@ map.addMarker({
   }
 });
 
-var swiper = new Swiper(".swiper-container", {
+const swiper = new Swiper(".swiper-container", {
   effect: "coverflow",
   // grabCursor: true,
   centeredSlides: true,
@@ -66,8 +66,8 @@ $(".owl-carousel").owlCarousel({
 
 $(function () {
   $(document).scroll(function () {
-    var $nav = $(".fixed-top");
-    var $header=$(".header");
+    const $nav = $(".fixed-top"),
+    $header=$(".header");
 	  $nav.toggleClass('scrolled', $(this).scrollTop() > $header.height());
 	});
 });
