@@ -44,5 +44,9 @@ to install packages:
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/tarekbenali90/)
 
-## More Project
+## Codepen
 [Codepen](https://codepen.io/Tarek-BenAli/)
+
+## NPM Project
+[NPM](https://www.npmjs.com/~tarek.benali)
+
